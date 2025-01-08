@@ -19,7 +19,7 @@ if ($prop("GameRawData.Telemetry.SessionFlagsDetails.IscautionWaving") == true){
 	Flag = 6;
 } else if ($prop("GameRawData.Telemetry.SessionFlagsDetails.Iscaution") == true){
 	Flag = 7;
-} else if ($prop('Flag_Blue') == true){
+} else if ($prop('GameRawData.Telemetry.SessionFlagsDetails.Isblue') == true){
 	Flag = 8;
 } else if ($prop("GameRawData.Telemetry.SessionFlagsDetails.Isred") == true){
 	Flag = 5;
