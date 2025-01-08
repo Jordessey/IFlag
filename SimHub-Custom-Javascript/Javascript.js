@@ -44,6 +44,7 @@ if ($prop("DataCorePlugin.GameRunning") == false){
 	Wet = 0;
 	Left = 0;
 	Right = 0;
+	BLKDSQ = 0;
 
 }
 
