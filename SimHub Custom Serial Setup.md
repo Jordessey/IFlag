@@ -41,6 +41,9 @@ If you do not see the option for "Custom Serial Devices" as shown below.
    a. select "EDIT" beside "Message before device Disconnect" and select "use NCALC".
    b. Paste the following into the "NCALC Formula" box and click "Ok".
    			'99:99:99:99:99'
+   c. Now do the same thing for the "Message after device Connect" and set the value to the following. This will cause the board to flash green briefly after connection.
+   			'2:0:0:0:0'
+   
 ![image](https://github.com/user-attachments/assets/7cf5bf32-5512-4538-9a48-6ceffe2770f2)
 
 
