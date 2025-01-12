@@ -59,7 +59,7 @@ If you do not see the option for "Custom Serial Devices" as shown below.
 ![image](https://github.com/user-attachments/assets/7cf5bf32-5512-4538-9a48-6ceffe2770f2)
 </ol>
 
-<br /><br />
+<br /><br /><br /><br />
 <h2>The final Custom Serial Device should look like the following with your applicable Serial Port selected</h2>
 <br />
 
