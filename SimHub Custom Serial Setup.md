@@ -60,7 +60,7 @@ If you do not see the option for "Custom Serial Devices" as shown below.
 </ol>
 
 <br /><br />
-<h1>The final Custom Serial Device should look like the following with your applicable Serial Port selected</h1>
+<h2>The final Custom Serial Device should look like the following with your applicable Serial Port selected</h2>
 <br />
 
 ![image](https://github.com/user-attachments/assets/28745963-a3b2-435b-8957-cbe12fb3b735)
