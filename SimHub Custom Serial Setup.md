@@ -6,12 +6,14 @@ If you do not see the option for "Custom Serial Devices" as shown below.<br />
   	3. Select "Ok"<br />
 <br /><br />
 1. Create a new Custom Serial Device with the following settings<br />
-	Serial Port: Select the applicable Serial Port.It will be named like "COM1 - Generic_F103C8TX..."<br />
-	Baudrate: 921600<br />
-	Enable RTS: ON<br />
-	Enable DTR: ON<br />
-	Log Incomming Data: OFF<br />
-	Automatic Reconnect: ON<br />
+<ul>
+	<li>Serial Port: Select the applicable Serial Port.It will be named like "COM1 - Generic_F103C8TX..."</li>
+	<li>Baudrate: 921600</li>
+	<li>Enable RTS: ON</li>
+	<li>Enable DTR: ON</li>
+	<li>Log Incomming Data: OFF</li>
+	<li>Automatic Reconnect: ON</li>
+</ul>
 
 ![image](https://github.com/user-attachments/assets/d9ef0980-0c84-49ee-aebb-92d579eed422)
 <br /><br />
