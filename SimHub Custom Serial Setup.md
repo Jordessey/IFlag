@@ -1,10 +1,12 @@
 If you do not see the option for "Custom Serial Devices" as shown below.<br />
 ![image](https://github.com/user-attachments/assets/793b5f8c-a7f8-4cc9-9d66-1c7291b8dcbb)
-	1. Select "Add/remove features" in the bottom left of SimHub<br />
- 	2. Either scroll down and find or search for "Custom Serial Devices" and enable it<br />
-  ![image](https://github.com/user-attachments/assets/1d145a58-e662-45a9-8726-603b3f99c463)
-  	3. Select "Ok"<br />
-<br /><br />
+<br />
+<ol>
+	<li>Select "Add/remove features" in the bottom left of SimHub</li>
+ 	<li>Either scroll down and find or search for "Custom Serial Devices" and enable it</li>
+  	![image](https://github.com/user-attachments/assets/1d145a58-e662-45a9-8726-603b3f99c463)
+  	<li>Select "Ok"</li>
+</ol>
 1. Create a new Custom Serial Device with the following settings<br />
 <ul>
 	<li>Serial Port: Select the applicable Serial Port.It will be named like "COM1 - Generic_F103C8TX..."</li>
