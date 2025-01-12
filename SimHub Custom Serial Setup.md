@@ -52,4 +52,5 @@ The final Custom Serial Device should look like the following with your applicab
 ![image](https://github.com/user-attachments/assets/28745963-a3b2-435b-8957-cbe12fb3b735)
 
 
+
   
