@@ -33,27 +33,30 @@ If you do not see the option for "Custom Serial Devices" as shown below.<br />
 		<li>Copy the contents of "Javascript.js" into the SimHub box "Javascript", If iRacing is not running the "Raw result" should show as "0:0:0:0:0"</li>
 		<li>Select "Ok" at the bottom</li>
 	</ul> 
+ 
 ![image](https://github.com/user-attachments/assets/a7f6c3ba-9d85-4630-80db-64962cb07432)
 
 <li>Change the update Frequency</li>
 	<ul>
 	<li>In the drop down box to the right of the update message, change it from the number present to "Changes Only"</li>li
 	</ul>
-<br /> 
+
 ![image](https://github.com/user-attachments/assets/cfa0b1c5-974c-4147-a790-8f77f1be45e8)
-<br />
-6. Set the disconnect message<br />
-   a. select "EDIT" beside "Message before device Disconnect" and select "use NCALC".<br />
-   b. Paste the following into the "NCALC Formula" box and click "Ok".<br />
-   			'99:99:99:99:99'<br />
-   c. Now do the same thing for the "Message after device Connect" and set the value to the following. This will cause the board to flash green briefly after connection.<br />
-   			'2:0:0:0:0'<br />
+
+
+<li>Set the disconnect message</li>
+	<ul>
+		<li>select "EDIT" beside "Message before device Disconnect" and select "use NCALC"</li>
+		<li>Paste the following into the "NCALC Formula" box and click "Ok". - '99:99:99:99:99' -</li>
+  		<li>Now do the same thing for the "Message after device Connect" and set the value to the following. This will cause the board to flash green briefly after connection. - '2:0:0:0:0' -</li>
+	</ul>
    
 ![image](https://github.com/user-attachments/assets/7cf5bf32-5512-4538-9a48-6ceffe2770f2)
 </ol>
 
-
-The final Custom Serial Device should look like the following with your applicable Serial Port selected.<br />
+<br /><br />
+<h1>The final Custom Serial Device should look like the following with your applicable Serial Port selected</h1>
+<br />
 ![image](https://github.com/user-attachments/assets/28745963-a3b2-435b-8957-cbe12fb3b735)
 
 
