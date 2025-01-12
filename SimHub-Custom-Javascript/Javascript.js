@@ -17,7 +17,7 @@ if ($prop("GameRawData.Telemetry.SessionFlagsDetails.Isblack") || $prop("GameRaw
 
 if ($prop("GameRawData.Telemetry.SessionFlagsDetails.IscautionWaving") == true){
 	Flag = 6;
-} else if ($prop("GameRawData.Telemetry.SessionFlagsDetails.Iscaution") == true){
+} else if ($prop('GameRawData.Telemetry.SessionFlagsDetails.IsyellowWaving') == true){
 	Flag = 7;
 } else if ($prop('GameRawData.Telemetry.SessionFlagsDetails.Isblue') == true){
 	Flag = 8;
